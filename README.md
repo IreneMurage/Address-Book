@@ -12,8 +12,7 @@ The main goal of this project is to **practice using JavaScript constructors and
 
 ---
 ## View Live
-You can view the live project [here]:
-(https://irenemurage.github.io/Address-Book/)
+You can view the live project [here](https://irenemurage.github.io/Address-Book/)
 
 You can also view the live site on [Vercel](https://address-book-one-umber.vercel.app/)
 
