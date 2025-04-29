@@ -1,4 +1,3 @@
-// Business logic
 function createContact(firstName, lastName, phoneNumber) {
   const contact = {};
   contact.firstName = firstName;
